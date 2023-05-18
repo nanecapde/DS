@@ -37,6 +37,9 @@ h1 {
     background-color: #b50909;
     color: #fff; 
     border-color: black;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 600;
+    font-size: medium;
 }
 
 .button-sair{
@@ -48,6 +51,9 @@ h1 {
     margin: 35px auto;
     background-color: #fff;
     border: none;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 600;
+    font-size: medium;
 }
 
 .entrar-button{
@@ -60,6 +66,9 @@ h1 {
     background-color: #b50909;
     border-style: groove;
     border-color: white;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 600;
+    font-size: medium;
 }
   
 
