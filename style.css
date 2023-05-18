@@ -1,0 +1,28 @@
+.logo-grade-plus{
+    fill: white;
+  }
+h1 {
+    color: blue;
+    text-align: center;
+  }
+
+.container {
+    display: flex;
+    height: 100vh;
+  }
+
+
+.redsection {
+    flex: 0.3;
+    background-color:  #b50909;
+    flex-direction: column;
+    border-radius: 20px;
+    line-height: 0%;
+  }
+
+.whitesection {
+    flex: 1;
+  }
+  
+
+  
