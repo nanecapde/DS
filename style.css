@@ -1,6 +1,12 @@
+html{
+    font-family: Georgia, serif;
+  }
+
+  
 .logo-grade-plus{
     fill: white;
   }
+
 h1 {
     color: blue;
     text-align: center;
@@ -10,7 +16,6 @@ h1 {
     display: flex;
     height: 100vh;
   }
-
 
 .redsection {
     flex: 0.3;
@@ -23,6 +28,39 @@ h1 {
 .whitesection {
     flex: 1;
   }
+
+.button-circulo{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-color: #b50909;
+    color: #fff; 
+    border-color: black;
+}
+
+.button-sair{
+    color: #b50909;
+    border-radius: 15px;
+    max-width: 80px; 
+    width: 70%;
+    height: 40px;
+    margin: 10px auto;
+    background-color: #fff;
+    border-style: groove;
+    border: none;
+}
+
+.entrar-button{
+    color: white;
+    border-radius: 15px;
+    max-width: 170px; /* Define a largura máxima do botão */
+    width: 100%; /* Para preencher o espaço disponível na largura */
+    height: 40px;
+    margin: 10px auto;
+    background-color: #b50909;
+    border-style: groove;
+    border-color: white;
+}
   
 
   
