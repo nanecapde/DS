@@ -34,6 +34,7 @@ h1 {
   }
 
 .button-circulo{
+    cursor: pointer;
     width: 150px;
     height: 150px;
     border-radius: 100%;
@@ -49,11 +50,18 @@ h1 {
 
 h2{
   color: white;
-  margin-bottom: 45px;
+  margin-bottom: 20px;
   font-size: 15px;
 }
 
+h3{
+  color: white;
+  margin-bottom: 40px;
+  font-size: small;
+}
+
 .button-sair{
+    cursor: pointer;
     color: #b50909;
     border-radius: 20px;
     max-width: 80px; 
@@ -68,6 +76,7 @@ h2{
 }
 
 .button-grade{
+   cursor: pointer;
     color: white;
     border-radius: 17px;
     border-width: 3px;
@@ -87,6 +96,7 @@ h2{
 }
 
 .button-desempenho{
+  cursor: pointer;
   color: white;
   border-radius: 17px;
   border-width: 3px;
@@ -106,6 +116,7 @@ h2{
 }
 
 .button-flashcards{
+  cursor: pointer;
   color: white;
   border-radius: 17px;
   border-width: 3px;
