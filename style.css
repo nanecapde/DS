@@ -38,13 +38,19 @@ h1 {
     height: 150px;
     border-radius: 100%;
     border-width: 3px;
-    margin: 30px auto;
+    margin: 10px auto;
     background-color: #b50909;
     color: #fff; 
     border-color: black;
     font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
     font-weight: 600;
     font-size: medium;
+}
+
+h2{
+  color: white;
+  margin-bottom: 45px;
+  font-size: 15px;
 }
 
 .button-sair{
